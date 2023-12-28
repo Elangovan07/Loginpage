@@ -1,4 +1,4 @@
-To make this work u need to connect it to the database SQL (phpmyadmin);
+To make this work you need to connect it to the SQL database (phpmyadmin);
 
 with,
 
